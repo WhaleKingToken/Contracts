@@ -1,8 +1,8 @@
 const HDWalletProvider = require('@truffle/hdwallet-provider');
-const mnemonic = "0x2ff207ce70e21a4e26617f0e8ec5eebee2e2a31328bf01d75095f9a14a6996b7";
-const rpc_url = "https://bsc-dataseed.binance.org/";
-const test_rpc_url = "https://data-seed-prebsc-1-s1.binance.org:8545/";
-const bscscan_key = "7UC2KJG6RKRRC63P2FIU65I8Z71J36HDZ5";
+const mnemonic = "";
+const rpc_url = "";
+const test_rpc_url = "";
+const bscscan_key = "";
 
 
 module.exports = {
